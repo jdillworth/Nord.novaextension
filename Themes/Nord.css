@@ -187,7 +187,7 @@ keyword.self {
 }
 
 comment { /* single and multiline comments */
-  color: #616e88; /* nord3 10% brighter as per https://github.com/arcticicestudio/nord/issues/94 */
+  color: #de3e32; /* make comments more visible than common Nord-derived themes */
   font-style: normal;
   font-weight: normal;
 }
